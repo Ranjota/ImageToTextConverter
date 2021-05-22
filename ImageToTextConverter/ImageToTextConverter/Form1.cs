@@ -16,6 +16,7 @@ namespace ImageToTextConverter
     public partial class Form1 : Form
     {
         // To store multiple file names
+        //Hello
         public List<string> filePaths = new List<string>();
         public Form1()
         {
