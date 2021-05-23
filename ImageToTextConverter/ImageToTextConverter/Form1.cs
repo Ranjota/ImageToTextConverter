@@ -17,7 +17,6 @@ namespace ImageToTextConverter
     {
         // To store multiple file names
         //Hi
-        //Heya!! How are you??
         public List<string> filePaths = new List<string>();
         public Form1()
         {
