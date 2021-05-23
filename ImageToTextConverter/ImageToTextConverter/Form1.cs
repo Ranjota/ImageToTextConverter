@@ -15,7 +15,7 @@ namespace ImageToTextConverter
 {
     public partial class Form1 : Form
     {
-       
+
         public List<string> filePaths = new List<string>();
         public Form1()
         {
